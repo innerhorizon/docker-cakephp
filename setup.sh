@@ -11,4 +11,3 @@ do
 done
 sed -i -e 's/SERVER_NAME/'$SERVER'/g' /etc/apache2/apache2.conf
 sed -i -e 's/SERVER_NAME/'$SERVER'/g' /etc/apache2/sites-available/000-default.conf
-

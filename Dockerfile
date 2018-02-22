@@ -55,4 +55,3 @@ EXPOSE 80 443
 
 CMD  /bin/bash -c  ./tmp/setup.sh -s abc.com && \
      /usr/sbin/apache2ctl -D FOREGROUND
-
