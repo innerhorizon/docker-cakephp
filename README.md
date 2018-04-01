@@ -1,6 +1,7 @@
-# docker-cakephp
-Files for running CakePHP in Docker
+## Docker CakePHP
 
-I've been putting together some stuff to get CakePHP running under Docker. (There are a few things out there already but I wanted to learn more!)
+We are using this in some testing with CakePHP at Vinland Media, LLC.
 
-Nothing here is ready for prime-time, but if you can learn something from it (or tell me what I did wrong!), that's great.
+It's not ready for production use.
+
+More info to follow; we hope to make this more usable for the general public.
